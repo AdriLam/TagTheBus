@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/perle</item>
+        <item name="colorPrimaryDark">@color/perle</item>
+        <item name="colorAccent">@color/mat_grey</item>
+    </style>
+
+    <style name="visitItem">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="VisitItemTitle">
+        <item name="android:tint">@color/colorPrimaryDark</item>
+        <item name="android:layout_marginStart">@dimen/fab_margin</item>
+        <item name="android:textSize">@dimen/h1</item>
+        <item name="android:drawableEnd">@android:drawable/ic_input_add</item>
+    </style>
+
+    <style name="iconItem">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

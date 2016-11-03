@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TagTheBus</string>
+    <string name="photo_name">Nom :</string>
+    <string name="add_name">Savegarde nom</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="supprimer">Supprimer ?</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="supprimer_station_msg">Voulez-vous supprimer cette photo de station ?</string>
+    <string name="station_supprime">Station supprimée</string>
+    <string name="sauver_photo_msg">Voulez-vous sauvegarder cette photo ?</string>
+    <string name="photo_save">Photo sauvegardée</string>
+    <string name="add_pic">Ajouter une photo</string>
+</resources>
